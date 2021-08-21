@@ -1,4 +1,7 @@
 1. What is git?
+    Ans. Git is an open source Distributed Version Control System (DVCS) which records changes made to the files 
+    laying emphasis on the speed, data integrety, and distributed, non-linear workflow.
+    Git manages our application Development and Versioning
 2. What is the difference between git and github?
 3. What is the meaning of DVCS?
 4. What is the abbreviation of SCM?
