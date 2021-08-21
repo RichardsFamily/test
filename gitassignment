@@ -1,9 +1,13 @@
 1. What is git?
+    Ans. Git is an open source Distributed Version Control System (DVCS) which records changes made to the files 
+    laying emphasis on the speed, data integrety, and distributed, non-linear workflow.
+    Git manages our application Development and Versioning
 2. What is the difference between git and github?
 3. What is the meaning of DVCS?
 4. What is the abbreviation of SCM?
 5. Write down 5 SCM names?
 6. What is git Branch?
+   a brach in git is a new line of development
 7. What is git tag?
 8. What is the difference between Branch and Tag in Git?
 9. When will you create a branch and when will you create a tag?
@@ -54,3 +58,8 @@ project and why?
 49. What is git prune, Mirroring and git repack commands and What are the git objects? 
 50. Explain how controls are configured in git the remote repositories of your current project and why? 
 51. How git best practices and branching strategy?
+    - Use branching strategy and pull requests
+    - Continous commit is recommended, avoid only commiting after a task is done
+    - Don’t Commit Half-Done Work Test your code before commit.
+    - Write Good Commit Messages before commiting
+    - Try to use git commands rather than GUI tools.
